@@ -13,9 +13,6 @@ const Sidebar = () => {
   const queryClient = useQueryClient();
   const {
     mutate: logout,
-    isPending,
-    isError,
-    error,
   } = useMutation({
     mutationFn: async () => {
       try {
