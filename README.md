@@ -1,4 +1,4 @@
-# MERN Stack : A Twitter Clone From Scratch | JWT, Socket.io.
+# MERN Stack : A Twitter Clone From Scratch | JWT, Socket.io
 
 Some Features:
 
